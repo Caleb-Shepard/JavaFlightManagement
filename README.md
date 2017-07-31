@@ -1,2 +1,2 @@
 # JavaFlightManagement
-Small flight project created in Java for my first programming class last year.
+Small I/O project written in Java for my first programming class.
